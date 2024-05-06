@@ -1,0 +1,2 @@
+- soltar alarmas para medicamentos peligrosos
+- soltar alarmas para medicamentos LASSA con un clasificador
