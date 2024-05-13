@@ -21,7 +21,7 @@ class ImageToWordModel(OnnxInferenceModel):
         # predictions
         preds = self.model.run(self.output_names, {self.input_names[0]: image_pred})[0]
 
-        text = ctc_decoder(preds, self.char_list)[0]
+        text =  (preds, self.char_list)[0]
 
         return text
 

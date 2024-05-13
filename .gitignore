@@ -153,3 +153,4 @@ cython_debug/
 #.idea/
 *.tgz
 *.h5
+/02_inferenceModelv1/03_handwriting_recognition/Datasets
