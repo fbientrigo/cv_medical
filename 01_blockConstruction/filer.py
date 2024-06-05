@@ -99,5 +99,5 @@ def count_text_stats(txt_path):
 #     list(map)
 #     return label_path = os.path.join(datasets_path, label_path)
 
-# if main
+# if '__name__' == main:
 #matching_files = find_matching_file(datasets_path, files)
