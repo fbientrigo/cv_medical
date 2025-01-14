@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "5cf53d45f2573732",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a4f3aecc818ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed962fcfda323828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reus/0113 Word2Vec y Base de Datos de Medicamentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0113 Word2Vec y Base de Datos de Medicamentos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b61ee137d0d16fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c6fee17f947a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7963e4bc5938350e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9dc2b8ec770b12da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9c735a3837952eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81788d65af044f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d77333669497f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09db96788d82fe85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reus/0113 Word2Vec y Base de Datos de Medicamentos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0113 Word2Vec y Base de Datos de Medicamentos"
+            }
+          },
+          {
+            "id": "ce8259ec781e86e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reus/0113 Word2Vec y Base de Datos de Medicamentos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0113 Word2Vec y Base de Datos de Medicamentos"
+            }
+          },
+          {
+            "id": "c5c1c1e5f76777e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0de09c5480cf100c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reus/0113 Word2Vec y Base de Datos de Medicamentos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0113 Word2Vec y Base de Datos de Medicamentos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed962fcfda323828",
+  "lastOpenFiles": [
+    "reus/0113 Word2Vec y Base de Datos de Medicamentos.pdf",
+    "dataset_meds/documentacion_archivos.md",
+    "dataset_meds/~$Listado Principios Activos (1).xlsx",
+    "reus/0113 Word2Vec y Base de Datos de Medicamentos.md",
+    "reus"
+  ]
+}

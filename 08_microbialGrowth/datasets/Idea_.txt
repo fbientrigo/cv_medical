@@ -1,4 +1,0 @@
-1) Microbiologia:
-Computer Vision y Dimensionality Reduction
-- Agrupar el tipo y crecimiento de bacterias
-- Hacer eigenbacterias para facilitar la representacion
